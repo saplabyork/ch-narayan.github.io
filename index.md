@@ -2,7 +2,7 @@
 
 I'm an Associate Professor of Linguistics at York University, where I teach undergraduate and graduate courses on Language Acquisition, Speech Science, Speech Perception, and Psycholinguistics. My research has a wide scope and includes infant speech perception, infant-directed speech, the interaction between speech and language processing, and phonetic and perceptual approaches to sound change. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here's my [CV](https://ch-narayan.github.io/assets/CV_cn.2020)
 
 ### Test1
 
